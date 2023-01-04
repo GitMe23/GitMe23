@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andy
-- 👀 I’m interested in automation testing 
-- 💞️ I’m looking to collaborate on any projects requiring testing using Python or Java frameworks
+- 👀 I’m interested in digital audio, automation testing and development
 - 📫 Reach me through my personal website: https://gitme23.github.io/
 
 
