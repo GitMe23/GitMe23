@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andy
-- 👀 I’m interested in digital audio, automation testing and development
+- 👀 I’m interested in digital audio processing, test automation and data science
 - 📫 Reach me through my personal website: https://gitme23.github.io/
 
 
