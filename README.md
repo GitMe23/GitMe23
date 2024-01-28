@@ -2,20 +2,16 @@
 - I’m a tech enthusiast interested in development, the open source community, and professional audio 🔊
 - [Personal website](https://www.linkedin.com/in/andy-hopwood-a4abaa239/) 📫 
 <br>
-<br>
-<a href="https://www.linkedin.com/in/andy-hopwood-a4abaa239/">
+<div id="header" align="center">
+ <a href="https://www.linkedin.com/in/andy-hopwood-a4abaa239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
----
-<div id="header" align="center">
- <!-- Gif:
-  <img src="https://media.giphy.com/media/EPfV3ijMQVl60/giphy.gif?cid=790b7611m0rtd880f1f3cejic9r9xi0kj8z118kb6bl9fylj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/> -->
   <div id="badges">
   </div>
   
 </div>
 
+---
 
 <!-- -
 GitMe23/GitMe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
