@@ -1,85 +1,85 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-
-
- Hi! I’m an ISTQB-certified QA engineer specialising in test automation and quality processes 👋  
- I’m a musician and tech enthusiast interested in audio, development, and the open source community 🔊
- <br>[Personal website](https://gitme23.github.io) 📫 
-<br>
-<div id="header" align="center">
- <a href="https://www.linkedin.com/in/andy-hopwood-a4abaa239/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <div id="badges">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
+  
+   Hi! I’m an ISTQB-certified QA engineer specialising in test automation and quality processes 👋  
+   I’m a musician and tech enthusiast interested in audio, development, and the open source community 🔊
+   <br>[Personal website](https://gitme23.github.io) 📫 
+  <br>
+  <div id="header" align="center">
+   <a href="https://www.linkedin.com/in/andy-hopwood-a4abaa239/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <div id="badges">
+    </div>
+    </div>
   </div>
+  
+  <!-- -
+  GitMe23/GitMe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  You can click the Preview link to take a look at your changes.
+  - -->
+  
+  
+  ---
+  ### Skill set
+  
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <br>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgres" alt="postgres" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" alt="sqlserver" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <br>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" alt="Cucumber" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg" title="Gatling" alt="Gatling" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
-</div>
-
-<!-- -
-GitMe23/GitMe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- -->
-
-
----
-### Skill set
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
- <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgres" alt="postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="sqlserver" alt="sqlserver" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
- <br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatling/gatling-plain-wordmark.svg" title="Gatling" alt="Gatling" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
- <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-
-### About
-
-I am an ISTQB-certified QA engineer with a passion for ensuring quality in software development through test automation and informed manual processes.
-
-I consider quality assurance to be a unique software engineering discipline; I bring a strong background in object-oriented programming and a professional foundation in testing backend API solutions, including distributed systems and microservices.
-
-My expertise extends to shell scripting using Bash, Groovy, and Python to automate tasks and streamline processes for optimal efficiency.
-
-In addition to proficiency in front-end testing tools such as Cypress and Selenium, I possess extensive experience in testing RESTful services, interfacing with both relational and non-relational databases, and processing big data using tools like Pandas and Jupyter.
-
-My journey is deeply integrated with CI/CD, and I thrive in the dynamic atmosphere of agile development environments. I routinely deploy applications and execute smoke, regression, and functional test suites to ensure quality of frequent releases.
-
-Beyond the testing landscape, I'm fascinated by the open-source community and digital audio, reflecting my strong professional background in technology and music.
-
-If you're looking to connect, feel free to contact me via GitHub or [LinkedIn](https://www.linkedin.com/in/andy-hopwood-a4abaa239/).
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=GitMe23&style=flat-square&color=blue" alt=""/>
+  
+  ---
+  
+  
+  ### About
+  
+  I am an ISTQB-certified QA engineer with a passion for ensuring quality in software development through test automation and informed manual processes.
+  
+  I consider quality assurance to be a unique software engineering discipline; I bring a strong background in object-oriented programming and a professional foundation in testing backend API solutions, including distributed systems and microservices.
+  
+  My expertise extends to shell scripting using Bash, Groovy, and Python to automate tasks and streamline processes for optimal efficiency.
+  
+  In addition to proficiency in front-end testing tools such as Cypress and Selenium, I possess extensive experience in testing RESTful services, interfacing with both relational and non-relational databases, and processing big data using tools like Pandas and Jupyter.
+  
+  My journey is deeply integrated with CI/CD, and I thrive in the dynamic atmosphere of agile development environments. I routinely deploy applications and execute smoke, regression, and functional test suites to ensure quality of frequent releases.
+  
+  Beyond the testing landscape, I'm fascinated by the open-source community and digital audio, reflecting my strong professional background in technology and music.
+  
+  If you're looking to connect, feel free to contact me via GitHub or [LinkedIn](https://www.linkedin.com/in/andy-hopwood-a4abaa239/).
+  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=GitMe23&style=flat-square&color=blue" alt=""/>
