@@ -1,6 +1,10 @@
-- Hi! I’m an ISTQB-certified QA engineer specialising in test automation and quality processes 👋  
-- I’m a musician and tech enthusiast interested in audio, development, and the open source community 🔊
-- [Personal website](https://gitme23.github.io) 📫 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+
+ Hi! I’m an ISTQB-certified QA engineer specialising in test automation and quality processes 👋  
+ I’m a musician and tech enthusiast interested in audio, development, and the open source community 🔊
+ <br>[Personal website](https://gitme23.github.io) 📫 
 <br>
 <div id="header" align="center">
  <a href="https://www.linkedin.com/in/andy-hopwood-a4abaa239/">
@@ -8,20 +12,18 @@
   </a>
   <div id="badges">
   </div>
-  
+  </div>
 </div>
-
----
 
 <!-- -
 GitMe23/GitMe23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
+### Skill set
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
