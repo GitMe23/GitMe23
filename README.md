@@ -1,5 +1,5 @@
 - Hi! I’m an ISTQB-certified QA engineer specialising in test automation and quality processes 👋  
-- I’m a tech enthusiast interested in development, the open source community, and digital audio 🔊
+- I’m a musician and tech enthusiast interested in audio, development, and the open source community 🔊
 - [Personal website](https://gitme23.github.io) 📫 
 <br>
 <div id="header" align="center">
