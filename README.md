@@ -69,7 +69,7 @@
   
   I am an ISTQB-certified QA engineer with a passion for ensuring quality in software development through test automation and informed manual processes.
   
-  I consider quality assurance to be a unique software engineering discipline; I bring a strong background in object-oriented programming and a professional foundation in testing backend API solutions, including distributed systems and microservices.
+  I consider quality assurance to be a distinct engineering discipline; I bring a strong background in object-oriented programming and a professional foundation in testing backend API solutions, including distributed systems and microservices.
   
   My expertise extends to shell scripting using Bash, Groovy, and Python to automate tasks and streamline processes for optimal efficiency.
   
