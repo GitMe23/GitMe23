@@ -3,8 +3,6 @@
    -->
   
    ISTQB-certified QA engineer specialising in test automation and quality processes 👋  
-   <br>[Personal website](https://gitme23.github.io) 📫 
-  <br>
   <div id="header" align="center">
    <a href="https://www.linkedin.com/in/andy-hopwood-a4abaa239/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
